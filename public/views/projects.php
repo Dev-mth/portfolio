@@ -29,6 +29,19 @@
 
                 <div class="card">
                     <div class="box">
+                        <ion-icon name="newspaper-outline"></ion-icon>
+                        <div class="text">Portfolio</div>
+                        <a href="https://matheus.impactdev.online" target="_blank"><img src="images/portfolio.png"
+                                alt="portfolio"></a>
+                        <p></p>
+                        <a href="https://github.com/Dev-mth/portfolio" target="_blank">
+                            <ion-icon name="logo-github"></ion-icon>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="box">
                         <ion-icon name="calculator-outline"></ion-icon>
                         <div class="text">Gorjetas</div>
                         <a href="https://impactdev.online" target="_blank"><img src="images/calculadora.png"
@@ -39,5 +52,6 @@
                         </a>
                     </div>
                 </div>
+                
             </div>
         </div>

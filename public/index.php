@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfólio</title>
     <link rel="stylesheet" href="assets/css/style.css">
+      <!-- Favicon-->
+  <link rel="icon" type="image/x-icon" href="images/favicon.png" />
 </head>
 <body>
     <!--- <div class="scroll-up-btn">
