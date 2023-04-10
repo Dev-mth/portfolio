@@ -9,11 +9,19 @@
     <link rel="stylesheet" href="assets/css/style.css">
       <!-- Favicon-->
   <link rel="icon" type="image/x-icon" href="images/favicon.png" />
+        <!-- contatos-->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </head>
 <body>
-    <!--- <div class="scroll-up-btn">
-        <ion-icon name="chevron-up-outline"></ion-icon>
-    </div> -->
+
+    <!-- botão what -->
+    <div class="button-zap">
+        <a href="https://contate.me/dev-matheus" target="_blank">
+        <ion-icon name="logo-whatsapp"></ion-icon>
+        </a>
+    </div>
     <!------------------------ NAV ----------------->
     <div class="navbar">
        <?php require 'views/nav.php';?> 
@@ -40,7 +48,7 @@
     </section>
 
     <!--------- CONTATOS  --->
-    <section class="contact" id="contact">
+    <section class="contact" id="contact">''
         <?php require 'views/contact.php';?>
     </section>
     <!--  FOOTER-->

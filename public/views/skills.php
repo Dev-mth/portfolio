@@ -63,6 +63,14 @@
                         </div>
                         <div class="line mysql"></div>
                     </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>
+                                <img src="images/github.png" alt="css3">
+                            </span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>
                 </div>
             </div>
         </div>
