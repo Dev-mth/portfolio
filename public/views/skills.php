@@ -4,7 +4,7 @@
                 <div class="column left">
                     <div class="text">Meus conhecimentos</div>
                     <p>Conhecimentos adquiridos através de estudos contínuos e diários, buscando sempre utilizar ferramentas para desenvolver códigos limpos, bem estruturados e que possam ser reutilizáveis.</p>
-                    <a href="https://drive.google.com/file/d/1QqSVHzQtPCYfgvx8cAPtU8l82Y1BispS/view?usp=share_link" target="_blank">Informações</a>
+                    <a href="https://drive.google.com/file/d/1fcxOXni5Yb3kMzA-KamYwVRxgvQfC3Ez/view?usp=share_link" target="_blank">Informações</a>
                 </div>
                 <div class="column right">
                     <div class="bars">
@@ -26,7 +26,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="images/js.png" alt="css3">
+                                <img src="images/js.png" alt="javascript">
                             </span>
                         </div>
                         <div class="line js"></div>
@@ -34,7 +34,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="images/php.png" alt="">
+                                <img src="images/php.png" alt="php">
                             </span>
                         </div>
                         <div class="line php"></div>
@@ -58,6 +58,14 @@
                     <div class="bars">
                         <div class="info">
                             <span>
+                                <img src="images/vue.png" alt="vue">
+                            </span>
+                        </div>
+                        <div class="line vue"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>
                                 <img src="images/mysql.png" alt="mysql">
                             </span>
                         </div>
@@ -66,10 +74,10 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="images/github.png" alt="css3">
+                                <img src="images/github.png" alt="github">
                             </span>
                         </div>
-                        <div class="line css"></div>
+                        <div class="line github"></div>
                     </div>
                 </div>
             </div>

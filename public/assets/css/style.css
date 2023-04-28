@@ -261,6 +261,7 @@ section .title::after{
     padding: 20px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-bottom: 2rem;
 }
 .projects .projects-content .card:hover{
     background: rgb(8, 172, 172);
@@ -291,6 +292,10 @@ section .title::after{
     margin-top: 1rem;
     margin-bottom: 2rem;
     border-radius: 2rem;
+}
+
+.projects .projects-content .card .ferramentas img{
+    width: 15%;
 }
 /************************************  section especialidades  */
 .skills .title::after{
@@ -393,7 +398,7 @@ section .title::after{
     transform: rotate(140deg);
     box-shadow: 0 0 1rem rgb(8, 172, 172), 0 0 1rem rgb(141, 241, 9);
 }
-.contact-content a::before{
+.contact-content a:before{
     content: '';
     position: absolute;
     top: 50%;
