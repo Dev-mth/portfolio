@@ -71,7 +71,7 @@
 /*    home   inicio */
 .home{
     display: flex;
-    background: url(../../images/fundo.png) no-repeat;
+    background: url(/assets/images/fundo.png) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -289,6 +289,14 @@ section .title::after{
 }
 .projects .projects-content .card img{
     width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 2rem;
+}
+
+.projects .projects-content .card iframe{
+    width: 100%;
+    height: 218px;
     margin-top: 1rem;
     margin-bottom: 2rem;
     border-radius: 2rem;
