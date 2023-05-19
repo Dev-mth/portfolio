@@ -68,6 +68,8 @@
                         <div class="info">
                             <span>
                                 <img src="assets/images/mysql.png" alt="mysql">
+                                <img src="assets/images/postgresql.png" alt="postgresql">
+                                <img src="assets/images/sqlite.png" alt="sqlite">
                             </span>
                         </div>
                         <div class="line mysql"></div>

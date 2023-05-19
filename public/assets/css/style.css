@@ -400,6 +400,7 @@ section .title::after{
     text-align: center;
     line-height: 10rem;
     transition: .3s;
+    
 }
 .contact-content a:hover {
     background: rgb(8, 172, 172);
@@ -448,12 +449,16 @@ footer span a:hover{
     .navbar .max-width{
         margin-left: 0;
     }
+    .contact .contact-content a{
+        margin-bottom: 1rem; 
+    }
 }    
 @media (max-width: 1104px){
     .about .about-content .left img{
         width: 350px;
         height: 350px;
     }
+    
 }
 @media (max-width: 991px){
     .navbar .max-width{
@@ -516,11 +521,11 @@ footer span a:hover{
         width: calc(50% - 10px);
         margin-bottom: 20px;
     }
-    .skills .skills-content .column,
-    .contact .contact-content .column{
+    .skills .skills-content .column{
         width: 100%;
         margin-bottom: 35px;
     }
+   
     footer{
         margin-top: 15px;
     }
@@ -546,6 +551,10 @@ footer span a:hover{
     }
     .home .home-content .text-3{
         font-size: 27px;
+    }
+
+    .contact .contact-content{
+        justify-content: center;
     }
 }
 
@@ -576,3 +585,4 @@ footer span a:hover{
     font-weight: 900;
     box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
+
