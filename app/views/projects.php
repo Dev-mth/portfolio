@@ -115,6 +115,21 @@
                 </a>
             </div>
         </div>
+        <div class="card">
+            <div class="box">
+                <ion-icon name="newspaper-outline"></ion-icon>
+                <div class="text">Validação</div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/XY8Syrzf3-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <div class="ferramentas">
+                    <img src="assets/images/html-5.png">
+                    <img src="assets/images/laravel.png">
+                    <img src="assets/images/bootstrap.png">
+                </div>
+                <a href="https://github.com/Dev-mth" target="_blank">
+                    <ion-icon name="logo-github"></ion-icon>
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 

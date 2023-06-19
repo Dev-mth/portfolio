@@ -1,0 +1,17 @@
+{
+    "name": "matheus/portfolio",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Cavalcante",
+            "email": "matheus.cavalcant@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

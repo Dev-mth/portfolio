@@ -1,3 +1,14 @@
+<?php 
+
+require '../vendor/autoload.php';
+
+$path = dirname(__FILE__,2);
+
+$dotenv = Dotenv\Dotenv::createUnsafeImmutable($path);
+$dotenv->load();
+
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -18,7 +29,7 @@
 
     <!-- botão what -->
     <div class="button-zap">
-        <a href="https://contate.me/dev-matheus" target="_blank">
+        <a href="<?= $_ENV['ZAP']; ?>" target="_blank">
         <ion-icon name="logo-whatsapp"></ion-icon>
         </a>
     </div>

@@ -4,7 +4,7 @@
                 <div class="column left">
                     <div class="text">Meus conhecimentos</div>
                     <p>Conhecimentos adquiridos através de estudos contínuos e diários, buscando sempre utilizar ferramentas para desenvolver códigos limpos, bem estruturados e que possam ser reutilizáveis.</p>
-                    <a href="https://drive.google.com/file/d/1RVqtU3FfOuw828aCCRSrLavQICUP4dAh/view?usp=share_link" target="_blank">Informações</a>
+                    <a href="<?= $_ENV['CURRICULO']; ?>" target="_blank">Informações</a>
                 </div>
                 <div class="column right">
                     <div class="bars">
