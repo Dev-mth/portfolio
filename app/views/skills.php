@@ -10,7 +10,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/html-5.png" alt="html5">
+                                <img src="assets/images/html-5.webp" alt="html5">
                             </span>
                         </div>
                         <div class="line html"></div>
@@ -18,8 +18,8 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/css-3.png" alt="css3">
-                                <img src="assets/images/tailwindcss.png" alt="tailwindcss">
+                                <img src="assets/images/css-3.webp" alt="css3">
+                                <img src="assets/images/tailwindcss.webp" alt="tailwindcss">
                             </span>
                         </div>
                         <div class="line css"></div>
@@ -27,7 +27,8 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/js.png" alt="javascript">
+                                <img src="assets/images/js.webp" alt="javascript">
+                                <img src="assets/images/vue.webp" alt="vue">
                             </span>
                         </div>
                         <div class="line js"></div>
@@ -35,7 +36,8 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/php.png" alt="php">
+                                <img src="assets/images/php.webp" alt="php">
+                                <img src="assets/images/laravel.webp" alt="laravel">
                             </span>
                         </div>
                         <div class="line php"></div>
@@ -43,7 +45,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/laravel.png" alt="laravel">
+                            <img src="assets/images/wordpress.webp" alt="wordpress">
                             </span>
                         </div>
                         <div class="line laravel"></div>
@@ -51,7 +53,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/bootstrap.png" alt="bootstrap">
+                                <img src="assets/images/bootstrap.webp" alt="bootstrap">
                             </span>
                         </div>
                         <div class="line bootstrap"></div>
@@ -59,7 +61,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/vue.png" alt="vue">
+                                <img src="assets/images/elementor.webp" alt="elementor">
                             </span>
                         </div>
                         <div class="line vue"></div>
@@ -67,9 +69,9 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/mysql.png" alt="mysql">
-                                <img src="assets/images/postgresql.png" alt="postgresql">
-                                <img src="assets/images/sqlite.png" alt="sqlite">
+                                <img src="assets/images/mysql.webp" alt="mysql">
+                                <img src="assets/images/postgresql.webp" alt="postgresql">
+                                <img src="assets/images/sqlite.webp" alt="sqlite">
                             </span>
                         </div>
                         <div class="line mysql"></div>
@@ -77,7 +79,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>
-                                <img src="assets/images/github.png" alt="github">
+                                <img src="assets/images/github.webp" alt="github">
                             </span>
                         </div>
                         <div class="line github"></div>

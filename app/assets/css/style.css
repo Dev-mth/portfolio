@@ -71,7 +71,7 @@
 /*    home   inicio */
 .home{
     display: flex;
-    background: url(/assets/images/fundo.png) no-repeat;
+    background: url(/assets/images/fundo.webp) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
