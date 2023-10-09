@@ -17,13 +17,13 @@ $(document).ready(function(){
 
     /* Um script de animação de digitação jQuery (https://cdnjs.com/)*/
     var typed = new Typed(".typing", {
-        strings:["Desenvolvedor Jr","Front-end","Back-end","Freelancer"],
+        strings:["Desenvolvedor","Back-end","Front-end","Freelancer"],
         typeSpeed:60,
         backSpeed:30,
         loop:true
     });
     var typed = new Typed(".typing-2", {
-        strings:["Matheus Cavalcante, tenho 27 anos e moro em Mesquita RJ"],
+        strings:["Matheus Cavalcante, tenho 28 anos e moro em Mesquita RJ"],
         typeSpeed:60,
         backSpeed:10,
         loop:true

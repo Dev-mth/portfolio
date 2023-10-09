@@ -6,7 +6,7 @@
                 </div>
                 <div class="column right">
                     <div class="text">Me chamo <span class="typing-2"></span></div>
-                    <p>Desenvolvedor Jr buscando adquirir experiências consistentes para poder aprimorar meus conhecimentos já existentes, que farão com que eu possa desenvolver novas soluções e assim me tornar um profissional cada vez mais qualificado e atualizado.</p>
+                    <p>Desenvolvedor com experiência em desenvolvimento e manutenção de sites e sistemas, buscando adquirir experiências consistentes, que farão com que eu possa desenvolver novas soluções e assim me tornar um profissional cada vez mais qualificado e atualizado.</p>
                     <a href="<?= $_ENV['CURRICULO']; ?>" target="_blank">Download CV</a>
                 </div>
             </div>

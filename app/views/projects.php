@@ -5,7 +5,7 @@
             <div class="box">
                 <ion-icon name="storefront-outline"></ion-icon>
                 <div class="text">Store</div>
-                <a href="https://store.impactdev.online" target="_blank"><img src="assets/images/projects/store.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['STORE']; ?>" target="_blank"><img src="assets/images/projects/store.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/php.webp">
                     <img src="assets/images/mysql.webp">
@@ -23,8 +23,9 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Questions</div>
-                <a href="https://forum.impactdev.online" target="_blank"><img src="assets/images/projects/forum.png" alt="forum-duvidas"></a>
+                <a href="<?= $_ENV['FORUM']; ?>" target="_blank"><img src="assets/images/projects/forum.png" alt="forum-duvidas"></a>
                 <div class="ferramentas">
+                    <img src="assets/images/docker.svg">
                     <img src="assets/images/laravel.webp">
                     <img src="assets/images/mysql.webp">
                     <img src="assets/images/tailwindcss.webp">
@@ -39,7 +40,7 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Portfólio</div>
-                <a href="https://matheus.impactdev.online" target="_blank"><img src="assets/images/projects/portfolio.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['PORTFOLIO']; ?>" target="_blank"><img src="assets/images/projects/portfolio.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/html-5.webp">
                     <img src="assets/images/php.webp">
@@ -55,8 +56,23 @@
         <div class="card">
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
+                <div class="text">Motos</div>
+                <a href="<?= $_ENV['MOTOS']; ?>" target="_blank"><img src="assets/images/projects/motos.png" alt="buscar motos"></a>
+                <div class="ferramentas">
+                    <img src="assets/images/html-5.webp">
+                    <img src="assets/images/tailwindcss.webp">
+                </div>
+                <a href="https://github.com/Dev-mth/buscar-motos" target="_blank">
+                    <ion-icon name="logo-github"></ion-icon>
+                </a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="box">
+                <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Formulário</div>
-                <a href="https://form.impactdev.online/" target="_blank"><img src="assets/images/projects/form.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['FORMULARIO']; ?>" target="_blank"><img src="assets/images/projects/form.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/html-5.webp">
                     <img src="assets/images/css-3.webp">
@@ -72,7 +88,7 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Chat</div>
-                <a href="https://chat.impactdev.online/" target="_blank"><img src="assets/images/projects/chat.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['CHAT']; ?>" target="_blank"><img src="assets/images/projects/chat.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/html-5.webp">
                     <img src="assets/images/css-3.webp">
@@ -88,7 +104,7 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Gorjetas</div>
-                <a href="https://impactdev.online" target="_blank"><img src="assets/images/projects/calculadora.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['GORJETAS']; ?>" target="_blank"><img src="assets/images/projects/calculadora.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/html-5.webp">
                     <img src="assets/images/css-3.webp">
@@ -103,7 +119,7 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Todo list</div>
-                <iframe src="https://www.youtube.com/embed/cxO-io9Cqbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/bsC9p75I2vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
                 </iframe>
                 <div class="ferramentas">
                     <img src="assets/images/html-5.webp">
@@ -135,7 +151,23 @@
             <div class="box">
                 <ion-icon name="newspaper-outline"></ion-icon>
                 <div class="text">Curso</div>
-                <a href="https://julia.impactdev.online/" target="_blank"><img src="assets/images/projects/curso.png" alt="loja virtual"></a>
+                <a href="<?= $_ENV['CURSO']; ?>" target="_blank"><img src="assets/images/projects/curso.png" alt="loja virtual"></a>
+                <div class="ferramentas">
+                    <img src="assets/images/wordpress.webp">
+                    <img src="assets/images/css-3.webp">
+                    <img src="assets/images/elementor.webp">
+                </div>
+                <a href="https://github.com/Dev-mth" target="_blank">
+                    <ion-icon name="logo-github"></ion-icon>
+                </a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="box">
+                <ion-icon name="newspaper-outline"></ion-icon>
+                <div class="text">Blog</div>
+                <a href="<?= $_ENV['BLOG']; ?>" target="_blank"><img src="assets/images/projects/studio.png" alt="loja virtual"></a>
                 <div class="ferramentas">
                     <img src="assets/images/wordpress.webp">
                     <img src="assets/images/css-3.webp">

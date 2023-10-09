@@ -3,7 +3,7 @@
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">Meus conhecimentos</div>
-                    <p>Conhecimentos adquiridos através de estudos contínuos e diários, buscando sempre utilizar ferramentas para desenvolver códigos limpos, bem estruturados e que possam ser reutilizáveis.</p>
+                    <p>Conhecimentos adquiridos através de experiências profissionais, estudos contínuos e diários, sempre buscando utilizar ferramentas para desenvolver códigos limpos, bem estruturados e reutilizáveis.</p>
                     <a href="<?= $_ENV['CURRICULO']; ?>" target="_blank">Informações</a>
                 </div>
                 <div class="column right">
@@ -75,6 +75,14 @@
                             </span>
                         </div>
                         <div class="line mysql"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>
+                                <img src="assets/images/docker.svg" alt="docker">
+                            </span>
+                        </div>
+                        <div class="line vue"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
